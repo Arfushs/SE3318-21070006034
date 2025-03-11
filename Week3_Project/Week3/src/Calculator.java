@@ -6,6 +6,6 @@ public class Calculator
     public void subtractV0(int a, int b) {
         
     }
-
+    public int divide(int a,int b) {return a/b;}
 
 }
